@@ -2,7 +2,7 @@
 
 
 
-> We performed exploratory analyis of how PyBer ride share service is currently operating by focusing on rider and driver behavior in ubban, suburban and rural cities. We created a graph that shows the total weekly fares, as well as total number of rides and total number of drivers for each city type. Our analyis shows how the data differs by city type and offers suggestions of how those differences can be used by decision-makers at PyBer to improve access to ride sharing services and determine affordability for underserved neighborhoods.
+> We performed exploratory analysis of how PyBer ride share service is currently operating by focusing on rider and driver behavior in urban, suburban and rural cities. We created graphs that show the total weekly fares, as well as total number of rides and total number of drivers for each city type. Our analyis shows how the data differs by city type and offers suggestions of how those differences can be used by decision-makers at PyBer to improve access to ride sharing services and determine affordability for underserved neighborhoods.
 
 
 
