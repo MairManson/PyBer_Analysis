@@ -26,9 +26,4 @@ Based on the results of our analysis, we offer the following business recommenda
 - PyBer should initiate a 20% fare increase to urban city riders that would put average fares closer to what rural drivers receive. 
 
 
-
-
-
----
-## References
 [Back To The Top](#pyber-rider-sharing)
